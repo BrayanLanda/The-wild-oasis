@@ -15,7 +15,7 @@ export const metadata = {
     default: "Welcome / The Wild Oasis",
   },
   description:
-    "Cabin hotel, located in the heart of the Colombia-Antioquia, surrounded by beatiful mountains and dark forests",
+    "The cabin hotel, located in the heart of the Colombia-Antioquia, surrounded by beatiful mountains and dark forests",
 };
 
 export default function RootLayout({ children }) {
